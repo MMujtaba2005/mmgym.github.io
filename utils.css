@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap');
+
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.text-color{
+    color: rgb(7, 7, 7);
+}
+.font-size{
+    font-size: 1.5rem;
+}
+
+.my-1{
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+.px-1{
+    padding-left: 81px;
+    padding-right: 36px;
+}
+
+.my-2{
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+
+.f-w{
+    font-weight: 0;
+}
+
+.p-m{
+    padding: 2px 5px;
+    margin: 7px;
+}
+
+.font{
+    font-family: 'Unbounded', cursive;
+}
+
+.overflow{
+    overflow: hidden;
+}
+
+.f-1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text-cen{
+    text-align: center;
+}
+
+.my3{
+    padding-left: 83px;
+    margin-right: 15px;
+}
+
+.fs-1{
+    font-size: 2rem;
+}
+
+.fs{
+    font-size: 1.3rem;
+}
+
+.f2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.l1{
+    list-style: none;
+}

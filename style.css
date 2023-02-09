@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 80vw;
+}
+
+.navbar{
+    display: flex;
+    height: 60px;
+    font-family: 'Unbounded', cursive;
+}
+
+.navbar li{
+    cursor: pointer;
+    list-style: none;
+    margin: 0 10px;
+}
+
+.topleft{
+    width: 50%;
+    height: 20vh;
+}
+
+.topright{
+    width: 50%;
+}
+
+.topright img{
+    justify-content: space-between;
+}
+
+.section2{
+    min-height: 50vh;
+}
+
+.section2 p{
+    padding: 0 7vw;
+    align-items: center;
+    /* padding-left: 20px; */
+}
+
+.btn{
+    cursor: pointer;
+    padding: 5px 15px;
+    border: 2px solid black;
+    color: whitesmoke;
+    background-color:#080808;
+}
+
+.box p{
+    margin-top: 7px;
+}
+
+.box{
+    padding: 7px 0px;
+    margin: 30px 25px;
+    min-width: 25vw;
+    text-align: center;
+    border: 2px solid rgb(16, 16, 31);
+    height: 205px;   
+}
+
+.box ul li{
+    margin: 10px 4px;
+}
+
+footer{
+    padding: 20px;
+    text-align: center;
+}
